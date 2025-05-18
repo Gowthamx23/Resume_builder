@@ -1,0 +1,36 @@
+{
+    "Gowtham Tirumalakonda": {
+        "name": "Gowtham Tirumalakonda",
+        "email": "gowthamaoc@gmail.com",
+        "phone": "9963340030",
+        "education": "Sri Vasavi Engineering College(SVEC) Bachelor of Technology-Computer Science Engineering-AIML- CGPA:8.47 \n\nSri Vishwashanti Educational Institutions Subjects- Maths, Chemistry, Physics- Percentage:79\n\nSmt Sethu Ramammal Vidhya Mandhir CBSE- Percentage:86",
+        "skills": [
+            "\u2022 Programming Languages: C",
+            " Java",
+            " Python",
+            " SQL",
+            " JavaScript \u2022 Web & Frontend: HTML5",
+            " CSS",
+            " React.js",
+            " Django \u2022 ML Frameworks & Libraries: Scikit-learn",
+            " TensorFlow",
+            " Pandas",
+            " NumPy",
+            " Airflow \u2022 Tools & Environments: Git",
+            " GitHub",
+            " Power BI",
+            " Tableau",
+            " Excel",
+            "MySQL \u2022 Platforms & Cloud: Linux",
+            " Windows",
+            " AWS \u2022 Soft Skills: Leadership",
+            " Communication",
+            " Time Management",
+            " Problem Solving",
+            " Team Collaboration \u2022 Domains: Data Science",
+            " Artificial Intelligence and Machine Learning",
+            " Web Development"
+        ],
+        "experience": "AWS Hackathon Participation: Certificate of Participation for the active participation in a 4 Day Workshop and 24 Hour Hackathon on Amazon Web Services with Python. (Jan 2024- Mar 2024)"
+    }
+}
